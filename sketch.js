@@ -6,7 +6,7 @@ var bullet, speed, weight;
 
 function setup() {
   createCanvas(1600,400);
-
+//hello
 thickness=random(22, 83);
 speed=random(22, 55);
 weight=random(30, 52);
